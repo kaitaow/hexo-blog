@@ -1,5 +1,5 @@
 ---
-title: how to setup your github blog
+title: github博客搭建指南
 categories: '工具与经验'
 tags: [github,blog]
 ---
